@@ -1,4 +1,4 @@
-###Conway's Game of Life
+### Conway's Game of Life
 
  This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Based on a tutorial by tutorial by [Freecodecamp](https://www.youtube.com/watch?v=PM0_Er3SvFQ).
 
@@ -6,7 +6,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 This project is based on the cellular automaton devised by the British mathematician John Horton Conway in 1970 which is called the [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The "game" is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. 
 
-![GoLimage](gameoflife/src/img/golimg.png)
+![GoLimage](src/img/golimg.png)
 
 ## To run the app
 
@@ -21,7 +21,7 @@ The game will start automatically at loading time. However by clicking the ***pa
 
 You may also try your own patterns by clicking indvidual squares.
 
-![GoLimage2](gameoflife/src/img/golimg2.png)
+![GoLimage2](src/img/golimg2.png)
 
 Finally you may change the grid size and execute fast or slow iterations.
 
